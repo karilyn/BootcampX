@@ -1,0 +1,1 @@
+SELECT cohorts.name as cohort, SUM()
